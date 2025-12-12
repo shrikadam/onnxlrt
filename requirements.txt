@@ -1,0 +1,12 @@
+torch
+torchvision
+ultralytics
+onnx
+onnxruntime-gpu
+openvino
+tensorrt
+tritonclient[all]
+numpy
+opencv-python
+jtop
+matplotlib
